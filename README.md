@@ -114,6 +114,6 @@ These issues are known (most of them noted above) and being worked on when time 
 * `playModeLighting` does not affect backgrounds. (this seems to be a problem with the model used by the background not having the right shader properties to be tinted)
 
 ## Special Thanks
-[emd4600](https://github.com/emd4600). Creator of the Spore ModAPI SDK.
-[Liskomato](https://github.com/Liskomato). Bug and feature testing; advice and code snippets.
-[ThePlantGuy](https://www.spore.com/view/myspore/adam215jj). Bug and feature testing.
+* [emd4600](https://github.com/emd4600). Creator of the Spore ModAPI SDK.
+* [Liskomato](https://github.com/Liskomato). Bug and feature testing; advice and code snippets.
+* [ThePlantGuy](https://www.spore.com/view/myspore/adam215jj). Bug and feature testing.
