@@ -47,6 +47,7 @@ A set of keybinds that change the functioning of the Editor itself:
 * `Ctrl+Alt+C`. Toggles camera panning, allowing the camera to be dragged horizontally and vertically while holding `Shift` or `Ctrl` key.
   * `Shift` or `Ctrl` are mutually exclusive, using both will have them cancel each other out.
   * If a Creature switches animation states, the camera will be reset to its original position. Use the Animation Toggle keybind (`Alt+S`) outlined above to work around this.
+  * If using Dark Injections's Flexible Camera component, the vertical panning is broken.
 
 * `S`. Toggles displaying the Creature's spine. Useful to quickly access it while it's obstructed by parts.
 
@@ -72,18 +73,18 @@ True to the name of the mod, it contains over two dozen-or-so cheats. This list 
 
 ### Hide Part Cheats:
 * `hideSelectedPart` (`L`). Hides the *selected* part. Use with option -sym for symmetrical hiding.
-* `hideSelectedPartChain` (`Shift + L`). Hides the *selected* part and all parts attached to it. Use with option -sym for symmetrical hiding.
+* `hideSelectedPartChain` (`Shift+L`). Hides the *selected* part and all parts attached to it. Use with option -sym for symmetrical hiding.
 * `hideHoveredPart` (`L`). Hides the *hovered* part. Use with option -sym for symmetrical hiding.
-* `hideHoveredPartChain` (`Shift + L`). Hides the *hovered* part and all parts attached to it. Use with option -sym for symmetrical hiding.
-* `hideAllParts` (`Ctrl + Shift + L`). Hides all parts except for certain types of Limbs and Creature vertebrae.
-* `unhideParts` (`Ctrl + L`). Unhides all hidden parts.
+* `hideHoveredPartChain` (`Shift+L`). Hides the *hovered* part and all parts attached to it. Use with option -sym for symmetrical hiding.
+* `hideAllParts` (`Ctrl + Shift+L`). Hides all parts except for certain types of Limbs and Creature vertebrae.
+* `unhideParts` (`Ctrl+L`). Unhides all hidden parts.
 
 ### Editor Cheats:
-* `toggleEditorAnimations` (`Alt + S`). Toggles animations in Build Mode.
-* `toggleForceSave` (`Ctrl + Alt + S`). Toggles validation checks when saving or loading creations.
+* `toggleEditorAnimations` (`Alt+S`). Toggles animations in Build Mode.
+* `toggleForceSave` (`Ctrl+Alt+S`). Toggles validation checks when saving or loading creations.
 * `toggleSpine` (`S`). Toggles displaying the spine of a Creature.
-* `toggleEditorShadows` (`Ctrl + Shift + S`). Toggles in-editor shadows.
-* `toggleEditorCamPanning` (`Ctrl + Alt + C`). Toggles camera drag-panning with Shift or Ctrl.
+* `toggleEditorShadows` (`Ctrl+Shift+S`). Toggles in-editor shadows.
+* `toggleEditorCamPanning` (`Ctrl+Alt +C`). Toggles camera drag-panning with Shift or Ctrl.
 * `togglePartOTS` (`T`). Changes the behaviour of the selected or hovered part when placing it.
 * `playModeLighting`. Lists or sets the lighting environment of the Play Mode environment. (experimental; background lighting currently not affected)
 * `setPartBools`. Lists or sets some properties of a part. (experimental)
@@ -99,8 +100,8 @@ True to the name of the mod, it contains over two dozen-or-so cheats. This list 
 * `getAdventureData`. Displays some basic debug information about the adventure.
 * `setAdventureCam`. Sets the position, rotation and distance of the Edit Mode camera when used in Play Mode. (experimental)
 * `resetAdventureCam`. Resets the adventure camera to a safe position when run from Play Mode in the event of bugs.
-* `toggleGhostedObjects` (`Ctrl + Shift + H`). Toggles displaying act-hidden (blue tinted) objects in Edit and Terraform mode.
-* `toggleHiddenAEIcons` (`Ctrl + Shift + I`). Toggles displaying icons for certain assets at a distance.
+* `toggleGhostedObjects` (`Ctrl+Shift+H`). Toggles displaying act-hidden (blue tinted) objects in Edit and Terraform mode.
+* `toggleHiddenAEIcons` (`Ctrl+Shift+I`). Toggles displaying icons for certain assets at a distance.
 
 ### Other Cheats:
 * `getCamData`. Displays some basic debug information about the camera, including adventure-specific info when in that Editor.
