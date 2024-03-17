@@ -1,0 +1,6 @@
+<mod displayName="Psi&apos;s Cheatbox" unique="PSI_CustomCheatsMod" description="Adds a number of useful cheats to the Editors, as well as some keybinds. See the thread on GitHub for more information." installerSystemVersion="1.0.1.2" hasCustomInstaller="false" isExperimental="false" dllsBuild="2.5.280">
+	<prerequisite >PSI_Cheats.dll</prerequisite>
+	<prerequisite game="GalacticAdventures">!!!Cheatbox_dependencies.package</prerequisite>
+	<remove>PSI_Cheats.dll</remove>
+	<remove>*Cheatbox_dependencies*</remove>
+</mod>
