@@ -114,6 +114,8 @@ These issues are known (most of them noted above) and being worked on when time 
 * Part OTS setting does not persist after Undo and/or Redo are used. (this is true for most properties covered under `setPartBools`)
 * `playModeLighting` does not affect backgrounds. (this seems to be a problem with the model used by the background not having the right shader properties to be tinted)
 
+**Note**: Open-source project files pending. Finalising comments.
+
 ## Special Thanks
 * [emd4600](https://github.com/emd4600). Creator of the Spore ModAPI SDK.
 * [Liskomato](https://github.com/Liskomato). Bug and feature testing; advice and code snippets.
