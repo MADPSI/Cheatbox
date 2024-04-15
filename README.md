@@ -72,10 +72,10 @@ True to the name of the mod, it contains over two dozen-or-so cheats. This list 
 **Note**: the droplist is huge and won't render properly if the console window is too thin, expand it horizontally if needed.
 
 ### Hide Part Cheats:
-* `hideSelectedPart` (`L`). Hides the *selected* part. Use with option -sym for symmetrical hiding.
-* `hideSelectedPartChain` (`Shift+L`). Hides the *selected* part and all parts attached to it. Use with option -sym for symmetrical hiding.
-* `hideHoveredPart` (`L`). Hides the *hovered* part. Use with option -sym for symmetrical hiding.
-* `hideHoveredPartChain` (`Shift+L`). Hides the *hovered* part and all parts attached to it. Use with option -sym for symmetrical hiding.
+* `hideSelectedPart` (`L`). Hides the *selected* part. Use with option `-sym` for symmetrical hiding.
+* `hideSelectedPartChain` (`Shift+L`). Hides the *selected* part and all parts attached to it. Use with option `-sym` for symmetrical hiding.
+* `hideHoveredPart` (`L`). Hides the *hovered* part. Use with option `-sym` for symmetrical hiding.
+* `hideHoveredPartChain` (`Shift+L`). Hides the *hovered* part and all parts attached to it. Use with option `-sym` for symmetrical hiding.
 * `hideAllParts` (`Ctrl + Shift+L`). Hides all parts except for certain types of Limbs and Creature vertebrae.
 * `unhideParts` (`Ctrl+L`). Unhides all hidden parts.
 
