@@ -36,7 +36,7 @@ A set of keybinds that change the functioning of the Editor itself:
   * Can be detrimental when dealing with complex Creatures, as animations stopping are an effective way of determining whether or not it has reached the Safe Limit of around 256 parts / rigblocks.
   * Does help when using the Camera Panning bind (`Ctrl+Alt+C`, see below), as it prevents the camera from being recentered whenever a Creature switches animation states.
     
-* `Ctrl+Alt+S`. Toggles validation checks, allowing the creation to be saved or loaded where that would normally be possible.
+* `Ctrl+Alt+S`. Toggles validation checks, allowing the creation to be saved or loaded where that would normally be impossible.
   * Essentially renders Force Save mods obsolete, though itself becomes effectively useless with those mods installed as they hard overwrite the validation checks.
   * Disabling validation checks may have unexpected consequences, namely allowing creations to be saved without a name. Such creations will automatically disappear from the Sporepedia, and will require manual recovery. Use this bind or cheat *only* when you are certain you are ready to save.
   * Overrules the implementation of the `prop` command to toggle validation if using that particular tweak.
