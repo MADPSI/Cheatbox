@@ -60,7 +60,7 @@ Binds that don't belong in the above categories:
   * **Note**: These property changes *are not retained* when the **Undo** or **Redo** actions are used, nor after reloading a creation, i.e. a Chassis will go back to behaving as it normally does.
   * Creations made using this technique *are* shareable within certain limitations.
     
-### Adeventure Editor
+### Adventure Editor
 Binds specifically for the Adventure Editor:
 
 * `Ctrl+Shift+H`. Toggles displaying *Ghosted* assets, those that are hidden during an act (tinted dark blue), from view in Edit Mode. Useful for previewing without needing to enter Play Mode.
