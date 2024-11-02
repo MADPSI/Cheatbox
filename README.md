@@ -117,7 +117,7 @@ True to the name of the mod, it contains over two dozen-or-so cheats. This list 
 * `editorSkybox -colour`. Sets the colour of the void behind the background, useful when used with the bind below. (Requires Dependencies Package included with v1.2.2r)
 
 ### Adventure Cheats:
-* `captainPos`. Sets the (absolute) position of the avatar in all modes.
+* `captainPos`. Sets the position, rotation and scale of the captain in all Adventure modes.
   * `-set`
     * `-position`. Sets the (absolute) position of the avatar (not adjusted for planetary coordinates) in all modes (Vector3).
     * `-rotation`. Sets the (absolute) rotation of the avatar in all modes (Vector3).
