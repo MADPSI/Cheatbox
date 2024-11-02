@@ -4,6 +4,8 @@ The **Cheatbox** is a collection of cheats and keybinds for Spore that predomina
 
 **Note**: this mod *must* be installed with either the [Spore ModAPI Launcher Kit](https://davoonline.com/sporemodder/rob55rod/ModAPI/Public/), or [Spore Mod Loader](https://github.com/Rosalie241/SporeModLoader), and can only be used when running the game with the respective programs. Running the game normally will not cause issues, but will *not* allow the cheats and keybinds to be used.
 
+**WARNING: This mod does not work for the October 2024 updated version of Spore on Steam distributions due to the incompatibility of that version with the ModAPI Launcher Kit and Mod Loader.**
+
 # Features
 
 ## Keybinds
