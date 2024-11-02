@@ -180,7 +180,7 @@ These issues are known (most of them noted above) and being worked on when time 
 
 * ~~Camera Panning resets to center when Creature starts animating. (appears to be related to more complicated functions, may not be fixable)~~
   * v1.2.2r addresses this issue in a roundabout manner, but may be subject to change depending on how stable this workaround proves to be.
-* `Alt+S` keybind and cheat crashes to desktop when uses. (this is well known and cannot be properly replicated. Therefor both the bind and the cheat have been disabled until a solution is found)
+* `Alt+S` keybind and cheat crashes to desktop when used. (this is well known and cannot be properly replicated. Therefor both the bind and the cheat have been disabled until a solution is found)
   * In the meantime, one can do further config tweaking to enable the use of this function via the `prop` cheat:
     * In `[Galactic Adventures]\DataEP1\Config\Properties.txt`, add the line: `property EditorAnimateWhileEditing 55 bool true` at the bottom of the file.
     * In `[Galactic Adventures]\DataEP1\Config\ConfigManager.txt`, add the line: `boolProp EditorAnimateWhileEditing true` at the bottom of the file. Set to `false` to disable animations on startup.
